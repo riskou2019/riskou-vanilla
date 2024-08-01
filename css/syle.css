@@ -2,3 +2,8 @@
     width: 96px;
     height: 65px;
     }
+    
+    h2 {
+        padding: 1rem 2rem;
+        background: #f4f4f4;
+      }
