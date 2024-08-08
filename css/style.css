@@ -7,6 +7,10 @@
    width: 100%;
  }
 
+ h2 {
+   font-size: 50%;
+ }
+
  p {
    position: absolute;
    top: 50%;
