@@ -21,3 +21,8 @@
   width: 150px;
   height: auto;
 }
+
+.sns{
+  transform: scale(0.8);
+  transform-origin: left top;
+}
