@@ -43,5 +43,9 @@ h3 {
 }
 
 html, body{
-  overfloe: hidden;
+  overflow: hidden;
+}
+
+.can-scroll{
+  overflow: auto;
 }
