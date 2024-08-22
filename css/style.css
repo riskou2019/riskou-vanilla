@@ -39,4 +39,5 @@ h3 {
 .sns{
   transform: scale(0.8);
   transform-origin: left top;
+  text-align: center;
 }
