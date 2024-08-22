@@ -7,5 +7,6 @@
 }
 
 .mokuzi{
-  float: right;
+  float: left;
+  text-align: right;
 }
