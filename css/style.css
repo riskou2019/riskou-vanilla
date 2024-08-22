@@ -36,3 +36,8 @@ h3 {
   height: auto;
 }
 
+.x{
+  max-width:600px!important;
+  margin-left:auto;
+  margin-right:auto;
+}
