@@ -4,8 +4,10 @@
 
 .cyuuou{
   text-align: center;
+  color:rgb(43, 41, 41)
 }
 
 .mokuzi{
   text-align: right;
+  float: left;
 }
