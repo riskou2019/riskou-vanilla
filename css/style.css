@@ -41,3 +41,11 @@ h3 {
   margin-left:auto;
   margin-right:auto;
 }
+
+html, body{
+  overflow: hidden;
+}
+
+.can-scroll{
+  overflow: auto;
+}
