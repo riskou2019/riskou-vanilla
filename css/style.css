@@ -27,6 +27,11 @@ h3 {
   top: 10px;
   right: 10px;
   text-align: right;
+
+  background-color: #050505;
+  color: #ffffff;
+  padding: 7px;
+  border-radius: 34px;
 }
 
 .mokuzi-item {
@@ -41,7 +46,7 @@ h3 {
 
 .risurazi {
   text-align: left;
-  width: 10px;
+  width: 367px;
   height: auto;
 }
 
