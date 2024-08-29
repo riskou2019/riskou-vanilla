@@ -23,8 +23,9 @@ h3 {
 }
 
 .mokuzi {
-  text-align: right;
-  overflow: hidden;
+  position: fixed;
+  top: 10px;
+  right: 10px;
 }
 
 .img-box {
@@ -43,6 +44,6 @@ h3 {
   margin-right: auto;
 }
 
-.can-scroll{
+.can-scroll {
   overflow: auto;
 }
