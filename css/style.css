@@ -29,15 +29,14 @@ h3 {
   text-align: right;
 
   background-color: #050505;
-  color: #ffffff;
   padding: 7px;
   border-radius: 34px;
 }
 
 .mokuzi-item {
-  color: #575757;
   font-weight: 700;
   text-decoration-line: none;
+  color: #ffffff;
 }
 
 .img-box {
