@@ -13,31 +13,36 @@ h3 {
   text-align: center;
 }
 
-.oomozi{
+.oomozi {
   font-size: 40px;
 }
 
-.cyuuou{
+.cyuuou {
   text-align: center;
-  color:rgb(43, 41, 41);
+  color: rgb(43, 41, 41);
 }
 
-.mokuzi{
+.mokuzi {
   text-align: right;
-  float: right;
+  overflow: hidden;
 }
 
-.img-box{
+.img-box {
   text-align: center;
 }
 
-.risurazi{
+.risurazi {
   text-align: left;
-  width: 150px;
-  height: auto;
+  width: 300px;
+  height: 200px;
 }
 
-.sns{
-  transform: scale(0.8);
-  transform-origin: left top;
+.x {
+  max-width: 600px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.can-scroll{
+  overflow: auto;
 }
