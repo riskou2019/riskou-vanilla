@@ -29,6 +29,12 @@ h3 {
   text-align: right;
 }
 
+.mokuzi-item {
+  color: #575757;
+  font-weight: 700;
+  text-decoration-line: none;
+}
+
 .img-box {
   text-align: center;
 }
