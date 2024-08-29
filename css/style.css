@@ -43,10 +43,6 @@ h3 {
   margin-right: auto;
 }
 
-html{
-  overflow: hidden;
-}
-
 .can-scroll{
   overflow: auto;
 }
