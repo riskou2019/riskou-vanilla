@@ -17,6 +17,11 @@ h3 {
   font-size: 40px;
 }
 
+.frame {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
 .cyuuou {
   text-align: center;
   color: rgb(43, 41, 41);
@@ -55,14 +60,14 @@ h3 {
   margin-right: auto;
 }
 
-.hazime{
+.hazime {
   padding-top: 50px;
 }
 
-.nibann{
+.nibann {
   padding-top: 27px;
 }
 
-.sannbann{
+.sannbann {
   padding-top: 32px;
 }
