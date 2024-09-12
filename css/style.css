@@ -82,3 +82,13 @@ h3 {
   padding-left: 45px;
   padding-right:45px;
 }    
+
+.background img{
+  height: 100%;
+  width: 100%;
+  bottom: 0;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
