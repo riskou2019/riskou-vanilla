@@ -21,7 +21,7 @@ h3 {
   padding-left: 90px;
   padding-right: 90px;
 }
- 
+
 
 .cyuuou {
   text-align: center;
@@ -78,17 +78,19 @@ h3 {
   padding-top: 32px;
 }
 
-.text{
+.text {
   padding-left: 45px;
-  padding-right:45px;
-}    
+  padding-right: 45px;
+}
 
-.background img{
-  height: 100%;
+.background img {
+  height: 300px;
   width: 100%;
-  bottom: 0;
-  overflow: hidden;
+}
+
+.overlay with backgroun {
   position: absolute;
-  right: 0;
-  top: 0;
+  color: white;
+  top: 35px;
+  font-size: 24px;
 }
