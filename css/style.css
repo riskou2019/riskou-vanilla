@@ -17,6 +17,12 @@ h3 {
   font-size: 40px;
 }
 
+.frame {
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+
 .cyuuou {
   text-align: center;
   color: rgb(43, 41, 41);
@@ -27,12 +33,21 @@ h3 {
   top: 10px;
   right: 10px;
   text-align: right;
+  background-color: #050505;
+  padding: 7px;
+  border-radius: 34px;
 }
 
 .mokuzi-item {
-  color: #575757;
   font-weight: 700;
   text-decoration-line: none;
+  color: #ffffff;
+}
+
+.mokuzi-item:hover {
+  font-weight: 700;
+  text-decoration-line: none;
+  color: #808080;
 }
 
 .img-box {
@@ -41,12 +56,52 @@ h3 {
 
 .risurazi {
   text-align: left;
-  width: 30px;
-  height: 20px;
+  width: 367px;
+  height: auto;
 }
 
 .x {
   max-width: 600px !important;
   margin-left: auto;
   margin-right: auto;
+}
+
+.hazime {
+  padding-top: 50px;
+}
+
+.nibann {
+  padding-top: 27px;
+}
+
+.sannbann {
+  padding-top: 32px;
+}
+
+.text {
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.background-img {
+  height: 300px;
+  width: 100%;
+}
+
+.overlay with backgroun {
+  position: absolute;
+  color: white;
+  top: 35px;
+  font-size: 24px;
+}
+
+.Subheading{
+  color:#000080;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.home-img{
+  width: 554px;
+  height: auto;
 }
